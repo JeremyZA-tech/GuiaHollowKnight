@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Guia Hollow Knight</string>
+    <string name="concentracion">Concentración</string>
+    <string name="espirituVengativo">Espíritu Vengativo</string>
+    <string name="saltoDesolador">Salto Desolador</string>
+    <string name="espectrosAulladores">Espectros Aulladores</string>
+    <string name="capaAlas">Capa de Ala de Polilla</string>
+    <string name="garraMantis">Garra de Mantis</string>
+    <string name="corazonCristal">Corazón de Cristal</string>
+    <string name="alasMonarca">Alas de Monarca</string>
+    <string name="lagrimaIsma">Lágrima de Isma</string>
+    <string name="aguijonOnirico">Aguijón Onírico</string>
+    <string name="expand_button_content_description">Ver más o menos información sobre la habilidad</string>
+    <string name="concentracionInfo">Concentra el ALMA reunida para reparar tu coraza y curarte el daño.</string>
+    <string name="espirituVengativoInfo">Conjura un espíritu que volará hacia el frente y quemará a los enemigos que se crucen en su camino.</string>
+    <string name="saltoDesoladorInfo">Golpea el suelo con la intensa fuerza del ALMA. Esta fuerza puede destruir a los enemigos o derribar estructuras frágiles.</string>
+    <string name="espectrosAulladoresInfo">Sacude a los enemigos con un ALMA estridente.</string>
+    <string name="capaAlasInfo">Capa hecha de hebras de ala de polilla. Permite al portador realizar un Avance Rápido en el suelo o por el aire.</string>
+    <string name="garraMantisInfo">Garra tallada a partir de hueso. Permite al portador colgarse en las paredes e impulsarse desde ellas.</string>
+    <string name="corazonCristalInfo">El núcleo de energía de un antiguo gólem minero rodeado de un potente cristal. Es posible canalizar la energía del cristal para lanzar al portador hacia delante a velocidades peligrosas.</string>
+    <string name="alasMonarcaInfo">Alas de materia etérea que centellean en la oscuridad. Permite al portador volver a saltar en el aire.</string>
+    <string name="lagrimaIsmaInfo">Fruto formado con una única lágrima solidificada. Cuando se ingiere, proporciona protección frente a los abrasadores estanques ácidos que se encuentran en determinadas partes de Hallownest.</string>
+    <string name="aguijonOniricoInfo">Permite al portador cortar el velo que separa el mundo onírico del real. Se puede usar para revelar sueños ocultos o abrir puertas.</string>
+    <string name="guia">Guía</string>
+    <string name="moreInfo">Más información...</string>
+</resources>
